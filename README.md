@@ -24,5 +24,6 @@
 
 - Since the application is deployed, posts made aren't necesarily mine. As of publication there is one post.
 
-![Screenshot from 2021-07-27 00-53-21](https://user-images.githubusercontent.com/49565358/127097478-cd1fcef2-0c14-4f5a-a191-ed1069deb429.png)
+![Screenshot from 2021-07-27 00-55-16](https://user-images.githubusercontent.com/49565358/127097630-e82541de-3f32-4e19-8d2d-15e8df3a586f.png)
+
 
