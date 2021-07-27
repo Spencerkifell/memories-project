@@ -19,3 +19,10 @@
 # Credit
 
 - This project was inspired by the **JS Mastery Workshop**: https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
+
+# Be Advised
+
+- Since the application is deployed, posts made aren't necesarily mine. As of publication there is one post.
+
+![Screenshot from 2021-07-27 00-53-21](https://user-images.githubusercontent.com/49565358/127097478-cd1fcef2-0c14-4f5a-a191-ed1069deb429.png)
+
