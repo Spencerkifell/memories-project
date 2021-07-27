@@ -10,3 +10,7 @@
 # Frontend Deployment
 
 - If you would like to see the front end in action, it's been deployed to Netlify: https://memories-app-spencerkifell.netlify.app/
+
+# Credit
+
+- This project was inspired by the JS Mastery Workshop: https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
