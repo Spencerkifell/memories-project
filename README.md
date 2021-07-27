@@ -13,7 +13,7 @@
 
 # Interested in Cloning?
 
-- If you want to try this out for yourself, please reference .env.examples in order to get the environment set-up properly. :D
+- If you want to try this out for yourself, please reference .env.examples in order to get the environment set-up properly.
 
 # Credit
 
