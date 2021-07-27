@@ -11,6 +11,10 @@
 
 - If you would like to see the front end in action, it's been deployed to Netlify: https://memories-app-spencerkifell.netlify.app/
 
+# Interested in Cloning?
+
+- If you want to try this out for yourself, please reference .env.examples in order to get the environment set-up properly. :D
+
 # Credit
 
 - This project was inspired by the JS Mastery Workshop: https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
