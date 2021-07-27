@@ -5,10 +5,12 @@
 - Styling brought to you by Material-UI: _Design Language Developed by Google_
 
 # Back-End Deployment
+- _If any of the deployments are down, I'm either saving hours on Heroku or working on something new!_
 
-- If you would like to see the back end in action, it's been deployed to Heroku: https://memories-spencerkifell.herokuapp.com/
+- If you would like to see the back end in action, it's been deployed to Heroku: https://memories-spencerkifell.herokuapp.com/_
 
 # Front-End Deployment
+- _If any of the deployments are down, I'm either saving hours on Netlify or working on something new!_
 
 - If you would like to see the front end in action, it's been deployed to Netlify: https://memories-app-spencerkifell.netlify.app/
 
