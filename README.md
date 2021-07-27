@@ -7,7 +7,7 @@
 # Back-End Deployment
 - _If any of the deployments are down, I'm either saving hours on Heroku or working on something new!_
 
-- If you would like to see the back end in action, it's been deployed to Heroku: https://memories-spencerkifell.herokuapp.com/_
+- If you would like to see the back end in action, it's been deployed to Heroku: https://memories-spencerkifell.herokuapp.com/
 
 # Front-End Deployment
 - _If any of the deployments are down, I'm either saving hours on Netlify or working on something new!_
