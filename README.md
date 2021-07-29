@@ -1,7 +1,5 @@
 # Memories - Project
 
-- Please note that this version is outdated and to see the other branch for added authentication...
-
 - A small project made using **React.js**, **Express,js**, **Redux**, **Node.js** and **Mongo.db** in accordance with the JavaScript Mastery workshop.
 - Goal of Workshop: Getting Comfortable with the MERN stack and just overall learning!
 - Styling brought to you by Material-UI: _Design Language Developed by Google_
