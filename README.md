@@ -1,6 +1,7 @@
 # Memories - Project
 
 - Please note that the code isn't up to date with the deployment. Working on getting the code out ASAP!
+- Since I just learnt the Google Authentication API, the application isn't in its prime yet!
 
 - A small project made using **React.js**, **Express,js**, **Redux**, **Node.js** and **Mongo.db** in accordance with the JavaScript Mastery workshop.
 - Goal of Workshop: Getting Comfortable with the MERN stack and just overall learning!
