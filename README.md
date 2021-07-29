@@ -1,5 +1,7 @@
 # Memories - Project
 
+- Please note that the code isn't up to date with the deployment. Working on getting the code out ASAP!
+
 - A small project made using **React.js**, **Express,js**, **Redux**, **Node.js** and **Mongo.db** in accordance with the JavaScript Mastery workshop.
 - Goal of Workshop: Getting Comfortable with the MERN stack and just overall learning!
 - Styling brought to you by Material-UI: _Design Language Developed by Google_
@@ -7,12 +9,12 @@
 # Back-End Deployment
 - _If any of the deployments are down, I'm either saving hours on Heroku or working on something new!_
 
-- If you would like to see the back end in action, it's been deployed to Heroku: https://memories-spencerkifell.herokuapp.com/
+- If you would like to see the back end in action, it's been deployed to Heroku: https://https://memories-api-spencerkifell.herokuapp.com/
 
 # Front-End Deployment
 - _If any of the deployments are down, I'm either saving hours on Netlify or working on something new!_
 
-- If you would like to see the front end in action, it's been deployed to Netlify: https://memories-app-spencerkifell.netlify.app/
+- If you would like to see the front end in action, it's been deployed to Netlify: https://memories-spencerkifell.netlify.app
 
 # Interested in Cloning?
 
